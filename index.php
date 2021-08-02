@@ -24,7 +24,7 @@
         </div>
         <div class="pachet_b_c">
             <div class="pachet_b_item"><input type="button"  value="Proiect 1"></div>
-            <div class="pachet_b_item"><input type="button"  value="Proiect 22"></div>
+            <div class="pachet_b_item"><input type="button"  value="Proiect 2"></div>
             <div class="pachet_b_item"><input type="button"  value="Proiect 3"></div>
             <div class="pachet_b_item"><input type="button"  value="Proiect 4"></div>
             <div class="pachet_b_item"><input type="button"  value="Proiect 5"></div>  
